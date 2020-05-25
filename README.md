@@ -1,24 +1,14 @@
-# README
+# Building With Active Record
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small non-UI project to complete the Odin Project's Ruby on Rails course. This template will allow users, via the command line, to create Users, Posts, and Comments. It is meant to simulate a basic blog site. 
 
-Things you may want to cover:
+**Required languages**: Rails, SQL, Ruby on Rails
 
-* Ruby version
+# What I Learned
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* The logistical framework of MVC. 
+* The process of building relations between models.
+* Rails console techniques.
+* Simple Rails debugging techniques.
+* The various Rails generate features.
+* Authenticating at the database level. 
